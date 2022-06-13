@@ -1,14 +1,14 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
+   ![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
 
 
 
-# PROJECT-SHARK
+#                                                 PROJECT-SHARK
 ![img](https://static.scientificamerican.com/sciam/cache/file/44782A7E-8025-4A62-833DC6E4CF9A42CB_source.jpg)
 
 
 ## OBJETIVO DEL PROYECTO
 
-Conocer TOP5 de los paises con más indice de ataques de tiburones en el 2018.
+Conocer cuantos ataques de tiburones han habido en los últimos 10 años.
 
 ## PASOS A SEGUIR...
 
