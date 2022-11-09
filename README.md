@@ -6,7 +6,15 @@
 ![img](https://static.scientificamerican.com/sciam/cache/file/44782A7E-8025-4A62-833DC6E4CF9A42CB_source.jpg)
 
 
-## OBJETIVO DEL PROYECTO
+<details>
+  <summary>CONTENIDO:</summary>
+  <ol>
+ [Descripción del Proyecto](#descripción-del-proyecto)
+        
+  </ol>
+</details>
+
+## DESCRIPCIÓN DEL PROYECTO 
 
 Conocer cuantos ataques de tiburones han habido en los últimos 10 años.
 
