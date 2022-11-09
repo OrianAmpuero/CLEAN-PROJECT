@@ -1,11 +1,11 @@
-   ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)&emsp;&emsp;&emsp; Primer proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:
+   ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)&emsp;Primer proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:
    
 
 <a name="readme-top"></a>
 
 #                                                 PROJECT SHARK
 
-<img src="https://github.com/OrianAmpuero/Project-Shark/blob/main/IMAGES/Shark-png.png" width="500" height="250">
+&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/OrianAmpuero/Project-Shark/blob/main/IMAGES/Shark-png.png" width="500" height="250">
 
 <details>
   <summary>CONTENIDO:</summary>
