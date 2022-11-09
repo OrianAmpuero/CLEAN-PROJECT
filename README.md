@@ -9,14 +9,27 @@
 
 <details>
   <summary>CONTENIDO:</summary>
-</details>
+</details> 
 
  [Descripción del Proyecto](#descripción-del-proyecto)
- [Estructura](#estructura)
- [Pasos a Seguir](#pasos a seguir)
- [Fuente de Datos](#fuente de datos)
  
-        
+ [Estructura](#estructura)
+ 
+ [Pasos a Seguir](#pasos-a-seguir)
+ 
+ [Fuente de Datos](#fuente-de-datos)
+ 
+ 
+
+<details>
+  <summary>CONTENIDO:</summary>
+  <ol> 
+    <li><a href="#descripción-del-proyecto">Descripción del Proyecto</a></li>
+    <li><a href="#estructura">Estructura</a></li>
+    <li><a href="##pasos-a-seguir">Pasos a Seguir</a></li>
+    <li><a href="#fuente-de-datos">Fuente de Datos</a></li>
+  </ol>
+</details>
 
 
 ## DESCRIPCIÓN DEL PROYECTO 
