@@ -1,11 +1,11 @@
-   ![Ironhack logo](https://i.imgur.com/1QgrNNw.png) &emsp;&emsp;&emsp;&emsp;&emsp; Primer proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:
+   ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)&emsp;&emsp;&emsp; Primer proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:
    
 
 <a name="readme-top"></a>
 
 #                                                 PROJECT SHARK
 
-<img src="https://github.com/OrianAmpuero/Project-Shark/blob/main/IMAGES/Shark-png.png" width="10000" height="10000">
+<img src="https://github.com/OrianAmpuero/Project-Shark/blob/main/IMAGES/Shark-png.png" width="500" height="250">
 
 <details>
   <summary>CONTENIDO:</summary>
@@ -28,7 +28,7 @@ El objetivo de este primer proyecto es aplicar lo aprendido en Python trabajando
 ## ESTRUCTURA
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">|<a href="#readme-top">SUBIR</a>|</p>
 
 
 ## PASOS A SEGUIR
