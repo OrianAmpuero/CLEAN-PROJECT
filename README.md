@@ -24,15 +24,15 @@
 ## ESTRUCTURA 📁
 
 ```    
-&emsp;&emsp;    |__ DATA/                         # contiene el csv limpio  
-&emsp;&emsp;    |
-&emsp;&emsp;    |__ IMG/                          # contiene imagénes referentes al proyecto y gráficos de los datos   
-&emsp;&emsp;    |
-&emsp;&emsp;    |__ SRC/                          # contiene el proceso de limpiea del csv
-&emsp;&emsp;    |
-&emsp;&emsp;    |__ .gitignore                    # archivo para ignorar documentos (csv original)    
-&emsp;&emsp;    |
-&emsp;&emsp;    |__ README.md   
+    |__ DATA/                         # contiene el csv limpio  
+    |
+    |__ IMG/                          # contiene imagénes referentes al proyecto y gráficos de los datos   
+    |
+    |__ SRC/                          # contiene el proceso de limpiea del csv
+    |
+    |__ .gitignore                    # archivo para ignorar documentos (csv original)    
+    |
+    |__ README.md   
 ```
 
 
@@ -54,7 +54,7 @@ El objetivo de este primer proyecto es aplicar lo aprendido en una semana con Py
    
 
 ## HERRAMIENTAS/INSTALACIONES 🛠️
-<b> &emsp;&emsp;&emsp;&emsp;&emsp;Jupyter Notebook, Python, Pandas, Numpy. </b>
+<b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jupyter Notebook, Python, Pandas, Numpy. </b>
 
     !pip install pandas
     !pip install numpy
@@ -72,14 +72,24 @@ Conocer cuantos ataques de tiburones han habido en los últimos 10 años.
 
 ## FUENTE DE DATOS 💻
 
-[GLOBAL SHARK](https://www.kaggle.com/datasets/teajay/global-shark-attacks).
-[NUMPY](https://numpy.org/doc/1.18/)
-[PANDAS](https://pandas.pydata.org/)
-[PYTHON](https://docs.python.org/3/library/functions.html)
-[PLOTLY](https://plotly.com/python/)
-[MATPLOTLIB](https://matplotlib.org/) 
-[SEABORN](https://seaborn.pydata.org/) 
+- [GLOBAL SHARK](https://www.kaggle.com/datasets/teajay/global-shark-attacks).
+
+- [NUMPY](https://numpy.org/doc/1.18/).
+
+- [PANDAS](https://pandas.pydata.org/).
+
+- [PYTHON](https://docs.python.org/3/library/functions.html).
+
+- [PLOTLY](https://plotly.com/python/).
+
+- [MATPLOTLIB](https://matplotlib.org/). 
+
+- [SEABORN](https://seaborn.pydata.org/).
 
 
 
 <p align="center">|<a href="#readme-top">SUBIR</a>|</p>
+
+
+
+`#0d1117`
