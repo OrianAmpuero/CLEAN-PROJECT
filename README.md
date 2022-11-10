@@ -10,9 +10,10 @@
 <details>
   <summary>CONTENIDO:📝</summary>
   <ol> 
-    <li><a href="#descripción-del-proyecto">Proyecto</a></li>
     <li><a href="#estructura">Estructura</a></li>
+    <li><a href="#descripción-del-proyecto">Proyecto</a></li>
     <li><a href="#pasos-a-seguir">Pasos a Seguir</a></li>
+      <li><a href="#herammientas">Herramientas</a></li>
     <li><a href="#insights">Insights</a></li>
     <li><a href="#fuente-de-datos">Fuente de Datos</a></li>
       
@@ -21,7 +22,8 @@
 
 
 ## ESTRUCTURA 📁
-    
+
+```    
 &emsp;&emsp;    |__ DATA/                         # contiene el csv limpio  
 &emsp;&emsp;    |
 &emsp;&emsp;    |__ IMG/                          # contiene imagénes referentes al proyecto y gráficos de los datos   
@@ -31,7 +33,7 @@
 &emsp;&emsp;    |__ .gitignore                    # archivo para ignorar documentos (csv original)    
 &emsp;&emsp;    |
 &emsp;&emsp;    |__ README.md   
-
+```
 
 
 ## PROYECTO :shark:
@@ -44,11 +46,21 @@ El objetivo de este primer proyecto es aplicar lo aprendido en una semana con Py
 
    1) Importar los datos que se encuentran en este [SHARK LINK!](https://www.kaggle.com/datasets/teajay/global-shark-attacks).
    
-   2) Se limpia el csv para quitar nulos y valores inconsistentes, colocar tipo de dato correcto... 
+   2) Se limpia el csv para quitar nulos y valores inconsistentes, eliminar duplicados, colocar tipo de dato correcto... 
 
    3) Analizar los datos según diversos objetivos para obtener conclusiones.
 
    4) Presentar resultados de investigación.
+   
+
+## HERRAMIENTAS/INSTALACIONES 🛠️
+<b> &emsp;&emsp;&emsp;&emsp;&emsp;Jupyter Notebook, Python, Pandas, Numpy. </b>
+
+    !pip install pandas
+    !pip install numpy
+    !pip install ipython
+    !pip install seaborn
+    %matplotlib inline
    
    
 
@@ -61,6 +73,13 @@ Conocer cuantos ataques de tiburones han habido en los últimos 10 años.
 ## FUENTE DE DATOS 💻
 
 [GLOBAL SHARK](https://www.kaggle.com/datasets/teajay/global-shark-attacks).
+[NUMPY](https://numpy.org/doc/1.18/)
+[PANDAS](https://pandas.pydata.org/)
+[PYTHON](https://docs.python.org/3/library/functions.html)
+[PLOTLY](https://plotly.com/python/)
+[MATPLOTLIB](https://matplotlib.org/) 
+[SEABORN](https://seaborn.pydata.org/) 
+
 
 
 <p align="center">|<a href="#readme-top">SUBIR</a>|</p>
