@@ -21,30 +21,29 @@
 </details>
 
 
-## ESTRUCTURA 📁
+## 📁ESTRUCTURA
 
-``` 
 
-|__ DATA/                         # contiene el csv limpio  
-|
-|__ IMG/                          # contiene imagénes referentes al proyecto y gráficos de los datos   
-|
-|__ SRC/                          # contiene el proceso de limpiea del csv
-|
-|__ .gitignore                    # archivo para ignorar documentos (csv original)    
-|
-|__ README.md  
+- |__ DATA/                         # contiene el csv limpio  
+- |
+- |__ IMG/                          # contiene imagénes referentes al proyecto y gráficos de los datos   
+- |
+- |__ SRC/                          # contiene el proceso de limpiea del csv
+- |
+- |__ .gitignore                    # archivo para ignorar documentos (csv original)    
+- |
+- |__ README.md  
     
-```
 
 
-## PROYECTO :shark:
+
+## 🦈 PROYECTO 
 
 El objetivo de este primer proyecto es aplicar lo aprendido en una semana con Python trabajando en limpieza y manipulación de datos con Pandas para un CSV que trata de ataques de tiburones, con un deadline de 3 días.
 
 
 
-## PASOS A SEGUIR ✔️
+## ✔️ PASOS A SEGUIR
 
    1) Importar los datos que se encuentran en este [SHARK LINK!](https://www.kaggle.com/datasets/teajay/global-shark-attacks).
    
@@ -55,7 +54,7 @@ El objetivo de este primer proyecto es aplicar lo aprendido en una semana con Py
    4) Presentar resultados de investigación.
    
 
-## HERRAMIENTAS/INSTALACIONES 🛠️
+## 🛠️ HERRAMIENTAS/INSTALACIONES 
 <b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jupyter Notebook, Python, Pandas, Numpy. </b>
 
     !pip install pandas
@@ -66,13 +65,13 @@ El objetivo de este primer proyecto es aplicar lo aprendido en una semana con Py
    
    
 
-## INSIGHTS 📊
+## 📊 INSIGHTS 
 
 Conocer cuantos ataques de tiburones han habido en los últimos 10 años.
 
 
 
-## FUENTE DE DATOS 💻
+## 💻 FUENTE DE DATOS 
 
 - [GLOBAL SHARK](https://www.kaggle.com/datasets/teajay/global-shark-attacks).
 - [NUMPY](https://numpy.org/doc/1.18/).
@@ -86,6 +85,6 @@ Conocer cuantos ataques de tiburones han habido en los últimos 10 años.
 
 
 
-<p align="center">'<a href="#readme-top">SUBIR</a>'</p>
+<p align="center">👆<a href="#readme-top">SUBIR</a>👆</p>
 
 
