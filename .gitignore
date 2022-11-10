@@ -1,6 +1,9 @@
 # Ocultar df original
 attacks.csv
 
+#otras cosas
+.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
