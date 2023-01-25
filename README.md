@@ -55,7 +55,7 @@ El objetivo de este primer proyecto es aplicar lo aprendido en una semana con Py
    
 
 ## 🛠️ HERRAMIENTAS/INSTALACIONES 
-<b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jupyter Notebook, Python, Pandas, Numpy. </b>
+<b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jupyter Notebook, Python, Pandas, Numpy. </b>
 
     !pip install pandas
     !pip install numpy
