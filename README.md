@@ -39,7 +39,31 @@
 
 ## 🦈 PROYECTO 
 
-El objetivo de este primer proyecto es aplicar lo aprendido en una semana con Python trabajando en limpieza y manipulación de datos con Pandas para un CSV que trata de ataques de tiburones, con un deadline de 3 días.
+El objetivo de este primer proyecto es aplicar lo aprendido en una semana con Python trabajando en limpieza y manipulación de datos con Pandas para un CSV que trata de ataques de tiburones, con un deadline de tres días.
+
+
+
+## ✔️ SOBRE EL CSV
+
+El conjunto de datos completo fue descargado el 29-09-2016; cada fila corresponde a un ataque de tiburón. 
+Las columnas son:
+
+-Case Number
+-Date
+-Year
+-Type
+-Country
+-Area
+-Location
+-Activity
+-Name
+-Sex
+-Age
+-Injury
+-Fatal (Y/N)
+-Time
+-Species
+-Investigator or Source
 
 
 
